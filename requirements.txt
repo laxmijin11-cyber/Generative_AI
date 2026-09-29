@@ -1,0 +1,38 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# LLM Providers
+langchain-openai
+openai
+langchain-google-genai
+google-generativeai
+langchain-anthropic
+
+# Embeddings & Transformers
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+# Vector Stores
+faiss-cpu
+chromadb
+
+# Utilities
+python-dotenv
+numpy
+scikit-learn
+pypdf
+
+# Backend + Frontend (Optional)
+fastapi
+uvicorn
+streamlit
+requests
+
+pydantic
+PyPDF
+unstructured
+# pip install langchain-experimental

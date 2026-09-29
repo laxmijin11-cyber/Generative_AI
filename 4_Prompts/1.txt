@@ -1,0 +1,9 @@
+PromptTemplate:
+A romptTemplate in Langchain is a structured way to create prompts dynamically by inserting variables into  a predefined template Instead of hardcoding prompts,prompttemplate allows you to define placeholders that can be filled at runtime with different inputs.
+
+This makes it reusable,flexible,easy to manage,especially when working with dynamic user inputs or automated workflows.
+
+Why use PromptTemplate over f-strings?
+1.Default Validation
+2.reusability
+3,Langchain Ecosystem
